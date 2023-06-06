@@ -1,4 +1,4 @@
-{
+ {
   "name": "game-project-react",
   "private": true,
   "version": "0.0.0",
@@ -9,6 +9,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@chakra-ui/next-js": "^2.1.3",
+    "@chakra-ui/react": "^2.7.0",
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "framer-motion": "^10.12.16",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
